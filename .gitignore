@@ -108,3 +108,7 @@ env/
 *.db
 *.sqlite
 *.sqlite3
+
+
+# Local Spring Boot secrets
+backend/src/main/resources/application.properties
